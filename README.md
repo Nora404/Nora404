@@ -17,6 +17,17 @@ Mein Code-Stil orientiert sich an Clean Code-Prinzipien und bewährten Design Pa
 - **Mini-Tools:** Kleine Tools die mir den Arbeitsaltag erleichtern.
 - **Css Nachschlagewerk:** Mein AnyType mit Css Wissen füllen und dabei selber besser werden. 
 
+## 🤖 Einsatz von KI in meinem Workflow
+
+Ich setze Künstliche Intelligenz gezielt als Unterstützung ein – zum Beispiel um:
+
+- **Effizient zu coden:** Prototypen oder einfache Fleißarbeiten schneller umzusetzen
+- **Statt zu googeln:** Lösungen und Quellen (z. B. CSS-Snippets oder Tutorials) schneller zu finden
+- **Beim Lernen:** Komplexe Zusammenhänge durch Wiederholungen oder tiefere Erklärungen besser zu verstehen
+- **Fehler zu vermeiden:** Rechtschreib- und Grammatikfehler zu erkennen und zu korrigieren
+
+Ich prüfe jeden Vorschlag kritisch und übernehme nur das, was ich **verstehe** und für **sauber und sinnvoll** halte.
+
 
 <!--
 **Nora404/Nora404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
