@@ -25,6 +25,7 @@ Ich setze Künstliche Intelligenz gezielt als Unterstützung ein – zum Beispie
 - **Statt zu googeln:** Lösungen und Quellen (z. B. CSS-Snippets oder Tutorials) schneller zu finden
 - **Beim Lernen:** Komplexe Zusammenhänge durch Wiederholungen oder tiefere Erklärungen besser zu verstehen
 - **Fehler zu vermeiden:** Rechtschreib- und Grammatikfehler zu erkennen und zu korrigieren
+- **Übersetzten:** englische Texte verstehen oder deutsche Texte/Wörter ins englische zu bringen
 
 Ich prüfe jeden Vorschlag kritisch und übernehme nur das, was ich **verstehe** und für **sauber und sinnvoll** halte.
 
