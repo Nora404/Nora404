@@ -12,10 +12,9 @@ Mein Code-Stil orientiert sich an Clean Code-Prinzipien und bewährten Design Pa
 
 ## 🚀 Aktuelle Projekte
 
-- **Altego:** Eine bestehende Seite modernisieren.
-- **C++:** Diese Spache möchte ich diesen Sommer lernen.
-- **Mini-Tools:** Kleine Tools die mir den Arbeitsaltag erleichtern.
-- **Css Nachschlagewerk:** Mein AnyType mit Css Wissen füllen und dabei selber besser werden. 
+- **SpaceBox:** Ein Unity Weltraumspiel für Mobile
+- **C#:** C# anwenden, nützlich für Unity und für die Arbeit 
+- **Plugins:** Unity Plugins lernen/anwenden (DialogSystem, InventarSystem, QuestMaschine) 
 
 ## 🤖 Einsatz von KI in meinem Workflow
 
